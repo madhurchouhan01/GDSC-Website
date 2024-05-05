@@ -25,7 +25,7 @@ export default class Teams extends Component {
       {
         name: "Gaurav Kadaskar",
         role: "AI/Ml Team Head",
-        img: require("../dot/vikas.jpg"),
+        img: require("../Assets/img/Rajat Bhaskare - Tech Team Lead.png"),
         linkedIn: "https://www.linkedin.com/in/rajat-bhaskare-b40443202",
       },
       {

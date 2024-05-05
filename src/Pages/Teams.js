@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import "./../Assets/css/team.css";
 import { Row } from "reactstrap";
 import FAQ from "../Component/Footer.js";
-import Ankur from "../Assets/img/Ankur Gupta _ Lead.jpg";
+import Aryan from "../Assets/img/dot/lead.jpg.jpg";
 import NavBarcomp from "../Component/NavBar";
-import Sir from "../Assets/img/sanjaysir.JPG";
+import Sir from "../Assets/img/dot/MR.jpg";
 import linkedIn from "../Assets/img/linkedin.png";
 import Footer from "../Component/Footer.js";
 import "aos/dist/aos.css";
@@ -17,7 +17,7 @@ export default class Teams extends Component {
       {
         name: "Aryan Chachra",
         role: "GDSC Lead",
-        img: Ankur,
+        img: Aryan,
         linkedIn: "https://www.linkedin.com/in/aryan-chachra-519927232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
     ];
@@ -25,25 +25,25 @@ export default class Teams extends Component {
       {
         name: "Gaurav Kadaskar",
         role: "AI/Ml Team Head",
-        img: require("../Assets/img/Rajat Bhaskare - Tech Team Lead.png"),
+        img: require("../Assets/img/dot/gau.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/rajat-bhaskare-b40443202",
       },
       {
         name: "Mihir Jaiswal",
         role: "Management Team Head",
-        img: require("../Assets/img/srajal.jpg"),
+        img: require("../Assets/img/dot/mih.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/mihir-jaiswal-322898287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Zoya Qureshi ",
         role: "Data Science Team Head",
-        img: require("../Assets/img/Abhinav Bagde - Content Lead.jpg"),
+        img: require("../Assets/img/dot/zo.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/zoya28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Aniruddh Dubge ",
         role: "Blockchain Head",
-        img: require("../Assets/img/Atharva J V Mathur _ Event and Outreach Lead.jpg"),
+        img: require("../Assets/img/dot/ani.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/aniruddhdubge?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       }
     ];
@@ -51,73 +51,73 @@ export default class Teams extends Component {
       {
         name: "Madhur Chouhan",
         role: "Web Development",
-        img: require("../Assets/img/Pulkit Dubey - App Lead.jpg"),
+        img: require("../Assets/img/dot/mad.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/madhurchouhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Adesh Katiya",
         role: "Data Science",
-        img: require("../Assets/img/ss.png"),
+        img: require("../Assets/img/dot/ad.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/adeysh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Aakash Benarjee",
         role: "Social Media",
-        img: require("../Assets/img/Prakrti Mankar _ Women in Tech.jpg"),
+        img: require("../Assets/img/dot/aakash.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/aakash-benarjee-587049252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Anjali Bansal",
         role: "Web Development",
-        img: require("../Assets/img/Abhishek Malviya _ Ml _ Cloud lead.jpg"),
+        img: require("../Assets/img/dot/an.jpg.jpeg"),
         linkedIn: "https://www.linkedin.com/in/anjali-bansal-06b047252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Bhavya Jadam",
         role: "AI/ML",
-        img: require("../Assets/img/Aryan Singh _ Open Source Lead.jpg"),
+        img: require("../Assets/img/dot/bj.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/bhavya-j-755825251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Arpita Verma",
         role: "Management",
-        img: require("../Assets/img/Abhishek Singh Lodhi _ UI_UX Lead.png"),
+        img: require("../Assets/img/dot/ar.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/arpita-verma-161048252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Gunjan Rathore",
         role: "Management",
-        img: require("../Assets/img/Pulkit Dubey - App Lead.jpg"),
+        img: require("../Assets/img/dot/gun.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/gunjan-rathore-a00261252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Taiba khan",
         role: "Content Writer",
-        img: require("../Assets/img/ss.png"),
+        img: require("../Assets/img/dot/teba.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/taiba-khan-faridi-576860172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Jayesh Panwar",
         role: "Social Media",
-        img: require("../Assets/img/Prakrti Mankar _ Women in Tech.jpg"),
+        img: require("../Assets/img/dot/jp.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/jayesh-panwar-a67193277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Vikas Pal",
         role: "Social Media",
-        img: require("../Assets/img/Abhishek Malviya _ Ml _ Cloud lead.jpg"),
+        img: require("../Assets/img/dot/vikas.jpg.png"),
         linkedIn: "https://www.linkedin.com/in/vikas-pal-51b477249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Ambika Mishra",
         role: "PR & Outreach",
-        img: require("../Assets/img/Aryan Singh _ Open Source Lead.jpg"),
+        img: require("../Assets/img/dot/am.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/ambika-mishra-034169286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Sourabh Pawar",
         role: "PR & Outreach",
-        img: require("../Assets/img/Abhishek Singh Lodhi _ UI_UX Lead.png"),
+        img: require("../Assets/img/dot/s.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/sourabh-pawar-02a18724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
     ];
@@ -126,19 +126,19 @@ export default class Teams extends Component {
       {
         name: "Hardik Panwar",
         role: "Mentor",
-        img: require("../Assets/img/rg.jpg"),
+        img: require("../Assets/img/dot/har.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/hardikpanwar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Simran Bhalode",
         role: "Mentor",
-        img: require("../Assets/img/ap.jpg"),
+        img: require("../Assets/img/dot/sim.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/simran-bhalode?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
       {
         name: "Raunek Pawar",
         role: "Mentor",
-        img: require("../Assets/img/ga.jpg"),
+        img: require("../Assets/img/dot/rp.jpg.jpg"),
         linkedIn: "https://www.linkedin.com/in/raunekpawar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
     ];
@@ -178,13 +178,13 @@ export default class Teams extends Component {
         <div className="speakersCardContainer mt-5" data-aos="fade-up">
           <div class="speakerCard">
             <div style={{ height: "40px" }}>
-              <img class="speakerImage" alt="" src={Sir} />
+              <img class="speakerImage" alt="" src={Sir}  />
             </div>
             <h5
               class="MuiTypography-root sanjay-sir jss7 MuiTypography-h5 MuiTypography-alignCenter"
               style={{ fontFamily: "GoogleSans-Bold" }}
             >
-              Sanjay Kumar Sharma
+              Radheshyam Acholiya
             </h5>
             <span
               class="MuiTypography-root mt-4 jss7 MuiTypography-caption MuiTypography-alignCenter"
@@ -198,7 +198,7 @@ export default class Teams extends Component {
               sx="[object Object]"
               style={{ fontFamily: "GoogleSans-Light" }}
             >
-              sksharma@rgtu.net
+              Radheshyam.acholiya@cdgi.edu.in
             </span>
           </div>
         </div>
@@ -209,7 +209,7 @@ export default class Teams extends Component {
         <div className="speakersCardContainer mt-5" data-aos="fade-up">
           <div class="speakerCard">
             <div style={{ height: "40px" }}>
-              <img class="speakerImage" alt="" src={Ankur} />
+              <img class="speakerImage" alt="" src={Aryan} />
             </div>
             <h5
               class="MuiTypography-root mt-5 jss7 MuiTypography-h4 team-heading MuiTypography-alignCenter"
